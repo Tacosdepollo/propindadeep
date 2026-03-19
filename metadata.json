@@ -1,0 +1,7 @@
+{
+  "name": "PSIQUE-MASAS: Arquitecto de Consenso",
+  "description": "Análisis técnico de la mente colectiva y diseño de estrategias de propaganda basado en Gustave Le Bon.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
